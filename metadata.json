@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Defender AI",
+  "description": "AI Chief of Staff that predicts missed deadlines, builds execution strategies, analyzes risks, simulates future outcomes, and rescues projects before failure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
